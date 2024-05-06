@@ -37,7 +37,7 @@ print(U)
 /*
 Program to find the LU Decomposition of a matrix.
 Developed by: KISHORE M
-RegisterNumber: 23050032012
+RegisterNumber: 2305002012
 */
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
