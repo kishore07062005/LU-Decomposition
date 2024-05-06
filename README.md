@@ -58,7 +58,7 @@ print(x)
 
 ## Output:
 ![LU Decomposition](https://github.com/kishore07062005/LU-Decomposition/assets/156066116/d3ad492c-6b18-46d1-a9f1-f0e8894f0217)
-![LU DECOMPOSITION](https://github.com/kishore07062005/LU-Decomposition/assets/156066116/6c39e8e0-9ead-4ac1-955d-f8cbdf2529e8)
+![LU decomposition](https://github.com/kishore07062005/LU-Decomposition/assets/156066116/c89accbe-9796-41ef-9cf4-04a1d5544670)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
